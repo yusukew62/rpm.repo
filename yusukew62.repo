@@ -1,0 +1,5 @@
+[yusukew62]
+name=yusukew62
+baseurl=https://github.com/yusukew62/rpm.repo/raw/master/el6/
+enabled=1
+gpgcheck=0
